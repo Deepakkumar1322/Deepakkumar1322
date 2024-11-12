@@ -31,12 +31,4 @@ Here are some of my projects that you might find interesting:
 
 I'm open to collaborations! If you're interested in working together or have suggestions for improvement, feel free to reach out.
 
-## 📫 Connect with Me
 
-- [GitHub](https://github.com/your-username)
-- [LinkedIn](https://linkedin.com/in/your-linkedin)
-- Email: your-email@example.com
-
----
-
-Thanks for visiting my profile! Let’s connect and build something amazing together! 🚀
